@@ -1,7 +1,7 @@
 name: How About this Test name
 favicon: null
-layout_spectrum: 0.9541884574573487
-typography_spectrum: 0.7312827478162944
+layout_spectrum: 0.49879
+typography_spectrum: 0.06074
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8991792877204716
-  lightness: 0.7358820994850248
-  saturation: 0.8098229565657675
-  rhythmicContrast: 0.9446803817991167
+    - '#f3f8f1'
+    - '#352d22'
+    - '#8d8d83'
+    - '#6a7567'
+    - '#b6c7b7'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
