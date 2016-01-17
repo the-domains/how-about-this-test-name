@@ -1,0 +1,28 @@
+name: How About this Test name
+favicon: null
+layout_spectrum: 0.9541884574573487
+typography_spectrum: 0.7312827478162944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#a07553'
+    - '#e0be91'
+    - '#31221b'
+    - '#ffe4be'
+    - '#584849'
+  brandStrength: 0.5
+  lightness: 0.7358820994850248
+  saturation: 0.8098229565657675
+  rhythmicContrast: 0.9446803817991167
+purpose: []
