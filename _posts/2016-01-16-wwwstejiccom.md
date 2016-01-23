@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.stejic.com'
-  name: Stejic
-  favicon: null
-  domain: www.stejic.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.stejic.com/'
+inLanguage: en
+starred: false
 keywords:
   - picture
   - gallery
@@ -18,17 +17,20 @@ keywords:
   - took
   - home
 description: "OK ... So now for a little content. I have created four image galleries of pictures I've taken recently. I am working on getting old images scanned as well, so there should be more soon! The images found in Iceland and Home Construction are at the tail end of my trip to Iceland in 2000 and pictures I took of my home in construction."
-inLanguage: en
+datePublished: '2016-01-23T19:02:56.130Z'
+dateModified: '2016-01-22T04:15:46.478Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.stejic.com/'
 title: www.stejic.com
-datePublished: '2016-01-16T23:58:56.876Z'
-dateModified: '2016-01-16T23:58:25.788Z'
 sourcePath: _posts/2016-01-16-wwwstejiccom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Stejic
+  domain: www.stejic.com
+  url: 'http://www.stejic.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
