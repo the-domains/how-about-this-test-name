@@ -1,7 +1,7 @@
 name: How About this Test name
 favicon: null
 layout_spectrum: 0.50588
-typography_spectrum: 0.30576
+typography_spectrum: 0.07039
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.125
   lightness: 0.5625
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
