@@ -1,6 +1,6 @@
 name: How About this Test name
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.7755
 typography_spectrum: 0.77308
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#00b050'
     - '#3475cd'
     - '#b8cfed'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.875
   saturation: 0.125
   rhythmicContrast: 0.75
